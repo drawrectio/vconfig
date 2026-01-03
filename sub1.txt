@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/drawrectio/vconfig
 #profile-web-page-url:https://github.com/drawrectio/vconfig
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.87.153.176:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%8E%8A8%40oneclickvpnkeys
-vless://b02262ee-d4e8-44c5-b08b-2dba07d1eec7@185.77.231.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=1a&type=tcp&headerType=none#%F0%9F%8E%8972%40oneclickvpnkeys
-vless://ecc65f46-4bb6-47b5-860c-837b3ae4f3ab@88.210.6.49:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%9A%A976%40oneclickvpnkeys
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.67.231.129:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%8E%8A2%40oneclickvpnkeys
-vless://52b32247-4747-41de-b816-ba750a5e8bd1@185.77.231.80:20814?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.max.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7&type=tcp&headerType=none#%F0%9F%8E%8974%40oneclickvpnkeys
-vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&sid=4d4421a0bac569&type=tcp&headerType=none#%F0%9F%8E%8985%40oneclickvpnkeys
+vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.87.153.176:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#Меппел, Нидерланды
+vless://b02262ee-d4e8-44c5-b08b-2dba07d1eec7@185.77.231.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=1a&type=tcp&headerType=none#Рига, Латвия
+vless://ecc65f46-4bb6-47b5-860c-837b3ae4f3ab@88.210.6.49:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#Амстердам, Нидерланды
+vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.67.231.129:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#Амстердам, Нидерланды
+vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&sid=4d4421a0bac569&type=tcp&headerType=none#Москва, Россия
